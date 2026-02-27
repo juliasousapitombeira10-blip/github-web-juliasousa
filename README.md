@@ -1,2 +1,2 @@
-# github-web-juliasousa
+# Sobre Tecnologias <h1>
 Atividade prática GitHub Web
